@@ -48,7 +48,7 @@ const Scene = () => {
   const blogPosts = [
     {
       title: "Welcome to My 3D Blog",
-      content: "Hi, I'm Daniyal! This is my innovative 3D blog where technology meets creativity. Explore the space by dragging and scrolling!",
+      content: "Hi, I'm Daniyal! This is my innovative 3D blog where technology meets creativity. Explore the space by dragging and scrolling! 🚀",
       image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
       color: "#4f46e5",
       rotationSpeed: 0.3,
@@ -80,6 +80,41 @@ const Scene = () => {
       image: "https://images.unsplash.com/photo-1520333789090-1afc82db536a",
       color: "#3b82f6",
       rotationSpeed: 0.32,
+    },
+    {
+      title: "Cybersecurity Essentials",
+      content: "Learn about the critical aspects of cybersecurity, from basic principles to advanced threat protection.",
+      image: "https://images.unsplash.com/photo-1520333789090-1afc82db536a",
+      color: "#3b82f6",
+      rotationSpeed: 0.32,
+    },
+    {
+      title: "Cloud Computing",
+      content: "Understanding cloud architecture, AWS, Azure, and the infrastructure that powers modern applications.",
+      image: "https://images.unsplash.com/photo-1520333789090-1afc82db536a",
+      color: "#06b6d4",
+      rotationSpeed: 0.28,
+    },
+    {
+      title: "Modern Web Development",
+      content: "Dive into the latest web technologies: React, Next.js, and TypeScript. Learn how modern frameworks are shaping the future of web development.",
+      image: "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2",
+      color: "#7c3aed",
+      rotationSpeed: 0.25,
+    },
+    {
+      title: "AI & Machine Learning",
+      content: "Explore the fascinating world of AI, from neural networks to practical applications in everyday technology.",
+      image: "https://images.unsplash.com/photo-1520333789090-1afc82db536a",
+      color: "#2563eb",
+      rotationSpeed: 0.35,
+    },
+    {
+      title: "Modern Web Development",
+      content: "Dive into the latest web technologies: React, Next.js, and TypeScript. Learn how modern frameworks are shaping the future of web development.",
+      image: "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2",
+      color: "#7c3aed",
+      rotationSpeed: 0.25,
     }
   ];
 
